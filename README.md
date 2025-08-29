@@ -7,4 +7,4 @@ The desire to speed up routine work pushed me to learn programming, but after di
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solid174&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solid174&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RainDance74&theme=github_dark)
 
-[![codewars](https://www.codewars.com/users/raindance/badges/large)](https://www.codewars.com/users/solid174)
+[![codewars](https://www.codewars.com/users/solid174/badges/large)](https://www.codewars.com/users/solid174)
